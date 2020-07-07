@@ -1,0 +1,218 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .hero-bannar {
+        min-height: 300px;
+    }
+
+    .hero-bannar h1 {
+        font-size: 70px;
+    }
+
+    .about-img img {
+        width: 100%;
+    }
+
+    .search-bar button {
+        font-size: 10px;
+    }
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .header-area {
+    
+        padding: 20px 0;
+    }
+
+    .hero-bannar {
+        min-height: 300px;
+    }
+
+    .text-side h1 {
+        font-size: 70px;
+    }
+
+    .text-side span {
+        font-size: 80px;
+    }
+
+    .hero-header {
+        min-height: 552px;
+    }
+
+    .hero-bannar {
+        min-height: 300px;
+    }
+    
+    .about-text h1 {
+        line-height: 39px;
+        font-size: 31px;
+    }
+
+    .about-img img {
+        width: 90%;
+    }
+
+    .skill-img img {
+        width: 100%;
+    }
+
+    .skill-text h1 {
+        line-height: 39px;
+        margin-bottom: 31px;
+    }
+
+    .progress-item {
+        padding-bottom: 10px;
+    }
+
+    .section-header h1 {
+        font-size: 36px;
+    }
+
+    
+
+    .form-input input {
+        width: 75%;
+    }
+
+    .form-input button {
+        width: 25%;
+    }
+    .search-bar input {
+        width: 70%;
+    }
+
+    .search-bar button {
+        width: 30%;
+    }
+
+    .person-img-side img {
+        width: inherit;
+    }
+    .person-name h3 {
+        font-size: 19px;
+    }
+    .person-name  {
+        display: block !important;
+    }
+
+    .commenr-part {
+        padding-left: 0;
+    }
+
+    
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+
+    .header-area {
+        padding: 20px 0;
+    }
+    .text-side h1 {
+        font-size: 50px;
+    }
+    .text-side span {
+        font-size: 60px;
+    }
+    .hero-header {
+        min-height: 552px;
+    }
+
+    .hero-bannar {
+        min-height: 300px;
+    }
+    .about-text h1 {
+        line-height: 30px;
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .about-img img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .skill-img img {
+        width: 100%;
+    }
+
+    .skill-text h1 {
+        line-height: 30px;
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .progress-item {
+        padding-bottom: 10px;
+    }
+    .section-header h1 {
+        font-size: 25px;
+    }
+    .social-media {
+        margin-bottom: 30px;
+    }
+
+    .social-share p {
+        font-size: 14px;
+    }
+    .social-share-icon ul li a {
+        font-size: 14px;
+    }
+
+    .social-share {
+        padding: 15px 0;
+    }
+
+    .person-img-side img {
+        width: inherit;
+    }
+    .person-name h3 {
+        font-size: 19px;
+    }
+    .person-name  {
+        display: block !important;
+    }
+
+    .commenr-part {
+        padding-left: 0;
+    }
+
+    .form-input input {
+        width: 75%;
+        height: 50px;
+    }
+
+    .form-input button {
+        width: 25%;
+        font-size: 18px;
+        height: 50px;
+    }
+    .search-bar input {
+        width: 70%;
+        height: 40px;
+
+    }
+
+    .search-bar button {
+        width: 30%;
+        height: 40px;
+        font-size: 18px;
+    }
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+ 
+}

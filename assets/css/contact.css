@@ -1,0 +1,16 @@
+.contact-card-wrap .card-item h3 {
+	font-size: 45px;
+	margin-bottom: 30px;
+}
+.contact-card-wrap .card-item p {
+	font-size: 25px;
+    line-height: 40px;
+    margin-bottom: 5px;
+}
+
+.contact-card-wrap .card-item a {
+    font-size: 25px;
+    display: block;
+    margin-bottom: 5px;
+    color: #e70f47;
+}

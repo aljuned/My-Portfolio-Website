@@ -1,0 +1,43 @@
+.hero-bannar {
+	min-height: 500px;
+}
+
+.profile-about-img img {
+	float: left;
+	width: 90%;
+	border-radius: 60px 0px 60px 0px;
+}
+
+/* Education Card */
+.education-card-wrap .card-item{
+    padding: 25px 10px;
+    border: 2px solid transparent;
+    transition: 1s all;
+}
+
+.education-card-wrap .card-item:hover{
+    border: 2px solid #e70f47;
+}
+.education-card-wrap .card-item .year {
+	font-size: 18px;
+	color: #fff;
+}
+.education-card-wrap .card-item .institute {
+	color: #e70f47;
+	margin-bottom: 20px;
+	display: block;
+	font-size: 22px;
+}
+.education-card-wrap .card-item .background{
+    margin-bottom: 20px;
+
+}
+
+.education-card-wrap .card-item .back{
+    color: #e70f47;
+    font-weight: 600;
+}
+.education-card-wrap .card-item .point {
+	color: #e70f47;
+	font-size: 20px;
+}
